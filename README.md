@@ -2,9 +2,9 @@
 
 2. b)PC0
    e) ADC_IN10.
-   h) Aktiviramo samo zeleno LED diodo na ustreznem izhodu PC9.
-   i)Vse se spremeni na 16Mhz.
-   l)16000
+   h) PC9.
+   i) Vse se spremeni na 16Mhz.
+   l) 16000
 
 3. f)HAL_GPIO_TogglePin(GPIOD,GPIO_PIN9);
 
